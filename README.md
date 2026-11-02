@@ -1,4 +1,4 @@
-# Customer-Churn-Analysis
+# Telco Customer-Churn-Analysis
 # Executive Summary: Customer Churn Analysis
 
 ## 1. Project Introduction
